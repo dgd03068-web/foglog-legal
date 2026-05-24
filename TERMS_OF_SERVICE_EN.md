@@ -46,9 +46,19 @@ You shall not:
 4. Conduct technical attacks (hacking, bot automation) against the Service or other users
 5. Attempt to bypass or compromise the anonymization system
 
-### 4-3. Consequences of Violation
+### 4-3. Inappropriate Content Blocking
+The Service blocks inappropriate content through three layers:
+1. **Keyword pre-filter**: Explicit profanity, hate speech, sexual harassment, and self-harm-inducing keywords are auto-blocked at publish time.
+2. **User reporting**: All posts have a report button (7 reason categories).
+3. **Operator review**: Reported content is reviewed **within 24 hours of submission** and immediately deactivated or deleted upon confirmed violation.
+
+### 4-4. Consequences of Violation
 1. Bundles accumulating 30+ reports are auto-deactivated.
 2. We may deactivate bundles or suspend accounts without prior notice for violations.
+3. We commit to initial response (review commencement) within 24 hours for any reported content.
+
+### 4-5. Zero Tolerance
+The Service enforces a **zero-tolerance policy** toward objectionable content and abusive users. When a prohibited act under 4-2 is confirmed, the content is **removed within 24 hours of the report**, and the author is subject to blocking or account suspension/deletion. You agree that no objectionable content or abusive user is tolerated on the Service.
 
 ---
 
@@ -118,4 +128,4 @@ For users in jurisdictions where local consumer protection laws apply (EU, UK, U
 
 ## Article 12 (Contact)
 
-- Email: **(email address to be registered)**
+- Email: **dgd03068@naver.com**

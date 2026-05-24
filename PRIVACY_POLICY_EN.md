@@ -53,9 +53,10 @@ We do not use your information for any other purpose. We do not sell or share it
 
 ### 3-1. Anonymization Process
 When you publish a diary anonymously:
-1. Identification information (names, places, companies, schools) is automatically replaced using on-device dictionary + AI
-2. Only the **anonymized copy** is sent to the server (original stays on device)
-3. Other users see only the anonymized version
+1. Identification information (names, places, companies, schools) is automatically replaced using an on-device dictionary
+2. **AI anonymization (optional)**: Only if you explicitly opt in within the app, the dictionary-masked text is sent to a third-party AI service (Anthropic, PBC — United States) for additional context-aware anonymization. Before you opt in, or if you decline, your text never leaves the device and only on-device dictionary anonymization is performed. You can withdraw consent anytime in Settings.
+3. Only the **anonymized copy** is sent to the server (original stays on device)
+4. Other users see only the anonymized version
 
 ### 3-2. Bundle Closure
 - The bundle closure token hash (SHA-256) is **immediately deleted** from the server
@@ -143,7 +144,7 @@ We will notify you in-app or on this page 30 days in advance of any material cha
 ## 11. Contact
 
 Privacy-related inquiries:
-- Email: **(email address to be registered)**
-- Privacy Officer: **(name to be registered)**
+- Email: **dgd03068@naver.com**
+- Privacy Officer: **Pyo Seok-Jung**
 
 You may also file complaints with your local data protection authority (e.g., the Korea Personal Information Protection Commission at privacy.go.kr, your state Attorney General, or your EU member state's supervisory authority).
